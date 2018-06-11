@@ -1,0 +1,11 @@
+img{
+    border-radius: 15%;
+    box-shadow: 7px 7px 3px rgba(37, 36, 36, 0.5);
+    transition: all 0.3s ease-in-out; 
+}
+
+img:hover{
+    cursor: pointer;
+    box-shadow: 12px 12px 6px rgba(63, 59, 59, 0.5);
+    transform: scale(1.11, 1.11);
+}

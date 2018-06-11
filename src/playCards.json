@@ -1,0 +1,122 @@
+[
+    {
+        "cardImage": "./images/mario.png",
+  
+        "id": 1,
+
+        "name": "Mario"
+
+    },
+    {
+        "cardImage": "./images/luigi.png",
+  
+        "id": 2,
+
+        "name": "Luigi"
+
+    },
+    {
+        "cardImage": "./images/peach.png",
+  
+        "id": 3,
+
+        "name": "Princess Peach"
+
+    },
+    {
+        "cardImage": "./images/bowser.png",
+  
+        "id": 4,
+
+        "name": "Bowser"
+
+    },
+    {
+        "cardImage": "./images/donkeykong.png",
+  
+        "id": 5,
+
+        "name": "Donkey Kong"
+
+    },
+    {
+        "cardImage": "./images/diddykong.png",
+  
+        "id": 6,
+
+        "name": "Diddy Kong" 
+
+    },
+    {
+        "cardImage": "./images/yoshi.png",
+  
+        "id": 7,
+
+        "name": "Yoshi"
+
+    },
+    {
+        "cardImage": "./images/wario.png",
+  
+        "id": 8,
+
+        "name": "Wario"
+
+    },
+    {
+        "cardImage": "./images/link.png",
+  
+        "id": 9,
+
+        "name": "Link"
+
+    },
+    {
+        "cardImage": "./images/zelda.png",
+  
+        "id": 10,
+
+        "name": "Princess Zelda"
+
+    },
+    {
+        "cardImage": "./images/sheik.png",
+  
+        "id": 11,
+
+        "name": "Sheik"
+
+    },
+    {
+        "cardImage": "./images/ganondorf.png",
+  
+        "id": 12,
+
+        "name": "Ganondorf" 
+
+    },
+    {
+        "cardImage": "./images/toonlink.png",
+  
+        "id": 13,
+
+        "name": "Toon Link"
+
+    },
+    {
+        "cardImage": "./images/samus.png",
+  
+        "id": 14,
+
+        "name": "Samus Aran"
+
+    },
+    {
+        "cardImage": "./images/zerosuitsamus.png",
+  
+        "id": 15,
+
+        "name": "Zero Suit Samus"
+
+    }
+]
