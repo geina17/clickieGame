@@ -1,16 +1,20 @@
 import React from 'react';
-import './Cards.css'
+import './Cards.css';
 
-const style ={
-    image:{
-        padding:0;
-        margin:13
+const styles = {
+    image: {
+    
+        // boxShadow: '5px 5px 2.5px grey',
+        padding: 0,
+        margin: 13
     }
 }
-const Cards =props => (
-    <img style ={
+
+const Cards = props => (
+    <img style={
         styles.image
-    }className='img-fluid col-md-2 col-3' 
+        }
+        className='img-fluid col-md-2 col-3' 
         src={
             props.cardImage
         } 
@@ -25,6 +29,8 @@ const Cards =props => (
         } 
         alt="character img"
     /> 
-);
+  );
+
+
 
 export default Cards;

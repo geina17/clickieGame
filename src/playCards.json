@@ -118,5 +118,13 @@
 
         "name": "Zero Suit Samus"
 
+    },
+    {
+        "cardImage": "./images/pit.png",
+  
+        "id": 16,
+
+        "name": "Pit"
+
     }
 ]

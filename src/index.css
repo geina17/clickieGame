@@ -1,5 +1,17 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  /* font-family:'Open Sans', sans-serif; */
+  background: #63524c;
+}
+
+.row {
+  background: rgb(220, 219, 219);
+  
+}
+
+.row2 {
+  background: rgb(250, 177, 20);
+  font-family: 'Open Sans', ;
+  color: rgb(255, 7, 7);
 }

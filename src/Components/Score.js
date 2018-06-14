@@ -1,22 +1,22 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Score extends Component {
-    styles ={
-        font:{
-            fontFamily :'Erica One',
-            color:'white',
-            stroke:'black'
+
+    styles = {
+        font: {
+            fontFamily: 'Alfa Slab One',
+            color: "white",
+            stroke: "black"
         }
     }
-    render(){
+
+    render() {
         return(
             <div>
                 <center>
-                    <h3 className='animated fadeInRight' style={this.styles.font}>
-                        Score:{this.props.score}
-                    </h3>
+                    <h3 className='animated fadeInRight' style={this.styles.font}>Score:{this.props.score}</h3>
                 </center>
-            </div>    
+            </div>
         );
     };
 };
